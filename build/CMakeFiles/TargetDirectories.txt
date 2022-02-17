@@ -1,0 +1,3 @@
+/home/keith/Workspaces/kframework/build/CMakeFiles/kframework.dir
+/home/keith/Workspaces/kframework/build/CMakeFiles/edit_cache.dir
+/home/keith/Workspaces/kframework/build/CMakeFiles/rebuild_cache.dir

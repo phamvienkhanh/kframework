@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/source/application.cpp.o -c /home/keith/Workspaces/kframework/source/application.cpp",
+  "file": "/home/keith/Workspaces/kframework/source/application.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/source/main.cpp.o -c /home/keith/Workspaces/kframework/source/main.cpp",
+  "file": "/home/keith/Workspaces/kframework/source/main.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/source/testwindow.cpp.o -c /home/keith/Workspaces/kframework/source/testwindow.cpp",
+  "file": "/home/keith/Workspaces/kframework/source/testwindow.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/source/windowmanager.cpp.o -c /home/keith/Workspaces/kframework/source/windowmanager.cpp",
+  "file": "/home/keith/Workspaces/kframework/source/windowmanager.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/imgui_demo.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/imgui_demo.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/imgui_draw.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/imgui_draw.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/imgui_tables.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/imgui_tables.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/imgui_widgets.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/imgui_widgets.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/imgui.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/imgui.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/TextEditor.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/TextEditor.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/TextEditor.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/backends/imgui_impl_glfw.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/keith/Workspaces/kframework/build",
+  "command": "/bin/c++  -I/home/keith/Workspaces/kframework/include -I/home/keith/Workspaces/kframework/3rd/imgui -I/home/keith/Workspaces/kframework/3rd/imgui/backends -I/home/keith/Workspaces/kframework/3rd/spdlog/include -g -o CMakeFiles/kframework.dir/3rd/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/keith/Workspaces/kframework/3rd/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/keith/Workspaces/kframework/3rd/imgui/backends/imgui_impl_opengl3.cpp"
+}
+]
