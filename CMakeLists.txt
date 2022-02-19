@@ -2,7 +2,8 @@ cmake_minimum_required(VERSION 3.22.1)
 project(kframework VERSION 0.1.0)
 
 include_directories(${CMAKE_SOURCE_DIR}/include
-                    ${CMAKE_SOURCE_DIR}/3rd/imgui
+                    ${CMAKE_SOURCE_DIR}/3rd
+					${CMAKE_SOURCE_DIR}/3rd/imgui
                     ${CMAKE_SOURCE_DIR}/3rd/imgui/backends
                     ${CMAKE_SOURCE_DIR}/3rd/spdlog/include)
 
